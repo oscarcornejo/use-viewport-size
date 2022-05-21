@@ -1,0 +1,23 @@
+{
+  "name": "@austral-ui/use-viewport-size",
+  "version": "0.0.1",
+  "author": "Oscar Cornejo Aguila",
+  "description": "A tiny React hook which allows you to track visible window viewport size in your components.",
+  "private": false,
+  "license": "MIT",
+  "repository": "github:oscarcornejo/use-viewport-size",
+  "keywords": [
+    "react",
+    "hooks",
+    "hook",
+    "react-hooks",
+    "window",
+    "resize",
+    "viewport",
+    "viewport-sizes",
+    "sizes",
+    "dimensions",
+    "typescript",
+    "responsive"
+  ]
+}
